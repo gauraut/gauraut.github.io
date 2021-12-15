@@ -4,33 +4,27 @@
 
 ### Category Name 1 
 
-<a href="https://github.com/advaitp/rover">Mars Rover with Robotic Arm</a> 
+<a href="https://youtu.be/IoMEVCYC8AU">Mars Rover with Robotic Arm</a> 
 <br><br>
 <a href="https://github.com/advaitp/rover">Project Link</a> 
 <br><br>
 <img src="images/rover.jpeg?raw=true"/>
 
 ---
-[Human Detection Module](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<a href="https://youtu.be/IoMEVCYC8AU">Human Detection Module</a> 
+<br><br>
+<a href="https://github.com/advaitp/HOG_Human_Detection">Project Link</a> 
+<br><br>
+<img src="images/human.gif?raw=true"/>
 
 ---
-[GAS Autonomous Collection Robot](https://github.com/Sameep2808/gas)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<a href="https://www.youtube.com/watch?v=89bhQhLPd2o">GAS Autonomous Collection Robot</a> 
+<br><br>
+<a href="https://github.com/Sameep2808/gas">Project Link</a> 
+<br><br>
+<img src="images/gas.png?raw=true"/>
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
 
 
 ---
