@@ -4,8 +4,10 @@
 
 ### Category Name 1 
 
-[Mars Rover with Robotic Arm](https://github.com/advaitp/rover)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Mars Rover with Robotic Arm]
+<img src="images/rover.jpeg?raw=true"/>
+<a href="https://github.com/advaitp/rover">Demo Link</a> 
+<a href="https://github.com/advaitp/rover">Project Link</a> 
 
 ---
 [Human Detection Module](/pdf/sample_presentation.pdf)
