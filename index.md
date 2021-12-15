@@ -4,15 +4,15 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Mars Rover with Robotic Arm](https://github.com/advaitp/rover)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Human Detection Module](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[GAS Autonomous Collection Robot](https://github.com/Sameep2808/gas)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
