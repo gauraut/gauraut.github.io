@@ -6,7 +6,7 @@
 <br><br>
 <img src="images/rover.jpeg?raw=true"/>
 
-<a href="https://youtu.be/IoMEVCYC8AU">Human Detection Module</a> 
+<a href="https://drive.google.com/file/d/1x613MHsiA7wgZiBNj1jrvGVsHL4oLTkb/view?usp=sharing">Human Detection Module</a> 
 <br><br>
 <a href="https://github.com/advaitp/HOG_Human_Detection">Project Link</a> 
 <br><br>
