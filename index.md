@@ -1,9 +1,6 @@
 ## Portfolio
 
 ---
-
-### Category Name 1 
-
 <a href="https://youtu.be/IoMEVCYC8AU">Mars Rover with Robotic Arm</a> 
 <br><br>
 <a href="https://github.com/advaitp/rover">Project Link</a> 
