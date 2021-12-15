@@ -2,6 +2,8 @@
 
 <a href="https://youtu.be/IoMEVCYC8AU">Mars Rover with Robotic Arm</a> 
 <br><br>
+<h2>Overview</h2>
+<p>Mars Rover equipped with a 5DOF arm to pick and place debris on Mars.It has camera and lidar sensor mounted on it which help in navigation and to avoid obstacle</p>
 <a href="https://github.com/advaitp/rover">Project Link</a> 
 <br><br>
 <img src="images/rover.jpeg?raw=true"/>
