@@ -19,7 +19,7 @@ using Homography Net.
 
 <a>Texture and intensity based edge detection algorithm (Pb-lite)</a> 
 <br><br>
-<img src="images/pb3.png?raw=true"/>
+<img src="images/pb_3.png?raw=true"/>
 <h2>Overview</h2>
 <p>• Implemented an API to detect edge using the probability of boundary edge detection
 algorithm and programmed using OpenCV and Python
